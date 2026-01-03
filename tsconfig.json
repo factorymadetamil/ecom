@@ -20,6 +20,4 @@
   "paths": {
     "@/*": ["./src/*"]
   },
-
-  "composite": true
 }
